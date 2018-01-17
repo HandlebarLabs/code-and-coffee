@@ -1,6 +1,6 @@
-<div style="text-align:center">
+<p align="center">
   <img src="./logo.png" alt="Coffee and Code">
-</div>
+</p>
 
 # Code and Coffee
 
